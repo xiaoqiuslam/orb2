@@ -10,8 +10,8 @@ EuRoC.yaml
 /home/q/orb2/MH_01_easy/mav0/cam1/data
 MH01.txt
 
-## 上面MH_01_easy数据集可添加微信 xiaoqiuslam 获取
+## 4. 上面MH_01_easy数据集可添加微信 xiaoqiuslam 获取
 
-## 答疑微信 xiaoqiuslam
+## 5. 答疑微信 xiaoqiuslam
 
-## 答疑QQ群 9255533821
+## 6. 答疑QQ群 9255533821
