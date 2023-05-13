@@ -13,5 +13,5 @@ else()
    message(FATAL_ERROR "OpenCV not found. Please install OpenCV first.")
 endif()
 
-add_executable(stereo_euroc.cc)
+add_executable(stereo_euroc stereo_euroc.cc)
 target_link_libraries(stereo_euroc ${OpenCV_LIBS})
